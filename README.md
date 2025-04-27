@@ -1,4 +1,4 @@
-# RTS
+ # RTS
 
 **RTS** (Real-Time Strategy) is a game or simulation that emphasizes real-time decision making, resource management, and tactical gameplay. This project serves as a foundational framework for a real-time strategy game, with gameplay mechanics such as resource collection, unit movement, and combat.
 
